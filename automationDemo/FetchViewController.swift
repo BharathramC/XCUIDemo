@@ -3,7 +3,7 @@
 //  automationDemo
 //
 //  Created by Bharathram C on 14/03/17.
-//
+//  Free to modified and distributed
 
 import UIKit
 

@@ -3,7 +3,7 @@
 //  automationDemoUITests2
 //
 //  Created by Bharathram C on 15/03/17.
-//
+//  Free to modified and distributed
 
 import XCTest
 
