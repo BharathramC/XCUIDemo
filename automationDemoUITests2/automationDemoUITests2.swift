@@ -3,7 +3,6 @@
 //  automationDemoUITests2
 //
 //  Created by Bharathram C on 15/03/17.
-//  Copyright © 2017 com.ibm.mobilefirst. All rights reserved.
 //
 
 import XCTest

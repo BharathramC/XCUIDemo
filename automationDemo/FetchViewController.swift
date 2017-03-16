@@ -3,7 +3,6 @@
 //  automationDemo
 //
 //  Created by Bharathram C on 14/03/17.
-//  Copyright © 2017 com.ibm.mobilefirst. All rights reserved.
 //
 
 import UIKit
